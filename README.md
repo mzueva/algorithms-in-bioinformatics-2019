@@ -1,8 +1,8 @@
 # Algorithms in Bioinformatics course 
-###(March - April 2019)
+### (March - April 2019)
 This repository contains presentations and code for Algorithms in Bioinformatics course 
 
-####Overview
+#### Overview
 1. Algorithm definition, algorithms complexity, Big O notation
 2. Python basics
 3. String algorithms: string match, substring search, edit distance, alignment
@@ -14,7 +14,7 @@ This repository contains presentations and code for Algorithms in Bioinformatics
 9. Computational Mass Spectrometry algorithms
 10. Phylogeny Tree Algorithms
 
-####Lectures
+#### Lectures
 
 | № | Lecture       | Links  |
 |---|--------------| -----:|
